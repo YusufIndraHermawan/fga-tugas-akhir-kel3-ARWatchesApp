@@ -1,0 +1,11 @@
+Model Information:
+* title:	watch test 01
+* source:	https://sketchfab.com/3d-models/watch-test-01-695cc19a47164697ab3b3357ee206dbe
+* author:	1oka1 (https://sketchfab.com/1oka1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "watch test 01" (https://sketchfab.com/3d-models/watch-test-01-695cc19a47164697ab3b3357ee206dbe) by 1oka1 (https://sketchfab.com/1oka1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

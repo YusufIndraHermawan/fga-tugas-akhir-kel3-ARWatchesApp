@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple Watch Series 8
+* source:	https://sketchfab.com/3d-models/apple-watch-series-8-28995aace1ee4d2fad2d127f31861087
+* author:	AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple Watch Series 8" (https://sketchfab.com/3d-models/apple-watch-series-8-28995aace1ee4d2fad2d127f31861087) by AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

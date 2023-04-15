@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seiko Watch
+* source:	https://sketchfab.com/3d-models/seiko-watch-0796e23ab5c0448c9bdf3fe5c3b3e362
+* author:	carloshisserich (https://sketchfab.com/carloshisserich)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seiko Watch" (https://sketchfab.com/3d-models/seiko-watch-0796e23ab5c0448c9bdf3fe5c3b3e362) by carloshisserich (https://sketchfab.com/carloshisserich) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wrist watch (smartWatch)
+* source:	https://sketchfab.com/3d-models/wrist-watch-smartwatch-c896964ab7274bff810ac5ae9165cf8c
+* author:	Mohit Batta (https://sketchfab.com/mohitdx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wrist watch (smartWatch)" (https://sketchfab.com/3d-models/wrist-watch-smartwatch-c896964ab7274bff810ac5ae9165cf8c) by Mohit Batta (https://sketchfab.com/mohitdx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
